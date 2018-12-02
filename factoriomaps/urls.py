@@ -16,7 +16,7 @@ Including another URLconf
 from django.conf.urls.static import static
 from django.contrib import admin
 from django.urls import path, include
-from factoriomaps import settings
+from django.conf import settings
 import maps.urls
 import account.urls
 
