@@ -1,9 +1,9 @@
-Accounts
-========
+Account
+=======
 
 Contents:
 
-.. automodule:: accounts
+.. automodule:: account
     :members:
 
 .. toctree::

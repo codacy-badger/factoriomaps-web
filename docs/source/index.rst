@@ -12,7 +12,7 @@ Contents:
    :maxdepth: 2
    :caption: Contents:
 
-   accounts/index
+   account/index
    maps/index
 
 Indices and tables
