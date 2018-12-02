@@ -92,7 +92,7 @@ if 'DATABASE_HOST' in os.environ:
             'PASSWORD': os.environ.get('DATABASE_PASSWORD', ''), # Travis CI default DB password
         }
     }
-else :
+else:
     DATABASES = {
         'default': {
             'ENGINE': 'django.db.backends.sqlite3',
